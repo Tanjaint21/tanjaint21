@@ -9,7 +9,10 @@
    
  🖥️  I have made few projects in the field of website development. 
    
+ ###Programming Languages
 
+ 
+![c (1)](https://github.com/Tanjaint21/tanjaint21/assets/127596924/039f87de-7c5e-4eda-8acc-d7ebdd364692)
 
   
 
