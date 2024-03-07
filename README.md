@@ -13,7 +13,6 @@
 <img src="./images/ProgrammingLanguageLogo/c.png" height="50px">
 <img src="./images/ProgrammingLanguageLogo/cpp.png" height="50px">
 <img src="./images/ProgrammingLanguageLogo/rust.png" height="50px">
-<img src="./images/ProgrammingLanguageLogo/java.png" height="50px">
 <img src="./images/ProgrammingLanguageLogo/python.png" height="50px">
 <img src="./images/ProgrammingLanguageLogo/javascript.png" height="50px">
 <img src="./images/ProgrammingLanguageLogo/html.png" height="50px">
