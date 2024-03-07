@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, This is Tanishq Rajesh Jain  <img src="images/wave.gif"  alt="Waving Hand" width="60px" /></h1>
+<h1 align="center"> Hi there, I am Tanishq Rajesh Jain  <img src="images/wave.gif"  alt="Waving Hand" width="60px" /></h1>
 
 
 🇮🇳  &nbsp; I am from Surat, Gujarat, India <br />
