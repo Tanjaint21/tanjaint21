@@ -4,7 +4,9 @@
 🇮🇳  &nbsp; I am from Surat, Gujarat, India <br />
 👨‍🎓 &nbsp; I am currently pursuing my undergrad from National Institute of Technology, Kurukshetra <br />
 💻 &nbsp; I have a keen passion in learning about newer technolgies in the field of software development. <br />
-🖥️ &nbsp; I have made few projects in the field of website development.
+🖥️ &nbsp; I have made few projects in the field of website development. <br />
+🤝 &nbsp; I want to currently work on making some open source contributions. <br />
+📫 &nbsp; To reach me:tanishqjain210203@gmail.com.  <br />
 
 
 <h2> Programming Languages </h2>
